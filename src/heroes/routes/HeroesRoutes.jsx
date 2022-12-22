@@ -1,5 +1,5 @@
 import { Navigate, Route, Routes } from 'react-router-dom'
-import { Navbar } from '../../ui'
+import { Navbar } from '../../../src/ui'
 import { DcPages, MarvelPage, SearchPage, HeroPage } from "../../heroes"
 
 
